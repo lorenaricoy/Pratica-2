@@ -1,0 +1,24 @@
+matérias:
+  - aeds
+  - ocs-prática
+  - ocs-teoria
+  - português
+  - matemática
+  - história
+  - biologia
+  - química
+  - física
+  - língua-estrangeira
+  - educação-física
+professores:
+  - Virginia
+  - Honda
+  - Alex
+  - Kelly
+  - Eliezer
+  - Josicelli
+  - Kátia
+  - "João Paulino"
+  - Rita
+  - Eliene
+turma-203: ~
