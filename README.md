@@ -1,4 +1,4 @@
-# projeto2
+# pratica 2
 Trarefa 2
 Lorena Ricoy, Julia Luna, Luana Castro
 29/04/2022
